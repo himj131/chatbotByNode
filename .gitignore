@@ -1,0 +1,6 @@
+.vscode/*
+.DS_Store
+botToken.txt
+package-lock.json
+node_modules
+db/node-chatbot-e4257-firebase-adminsdk-v567x-13674710aa.json
